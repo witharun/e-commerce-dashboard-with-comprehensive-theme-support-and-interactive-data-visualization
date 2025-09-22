@@ -19,7 +19,7 @@ const Header: React.FC<HeaderProps> = ({ title, breadcrumbs = [] }) => {
                     <div className="flex items-start justify-start space-x-3">
                         <div className="w-8 h-8 flex items-center justify-center">
                             <img
-                                src="/svg/extraFile.svg"
+                                src={`${process.env.PUBLIC_URL}/svg/extraFile.svg`}
                                 alt="User Profile"
                                 className="w-6 h-6"
                                 style={{
@@ -31,7 +31,7 @@ const Header: React.FC<HeaderProps> = ({ title, breadcrumbs = [] }) => {
                     <div className="flex items-start justify-start space-x-3">
                         <div className="w-8 h-8 flex items-center justify-center">
                             <img
-                                src="/svg/star.svg"
+                                src={`${process.env.PUBLIC_URL}/svg/star.svg`}
                                 alt="User Profile"
                                 className="w-6 h-6"
                                 style={{
@@ -84,7 +84,7 @@ const Header: React.FC<HeaderProps> = ({ title, breadcrumbs = [] }) => {
                         </button>
                         <button className="p-2 text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-white transition-colors duration-200">
                             <img
-                                src="/svg/clockwise.svg"
+                                src={`${process.env.PUBLIC_URL}/svg/clockwise.svg`}
                                 alt="User Profile"
                                 className="w-6 h-6"
                                 style={{
@@ -94,7 +94,7 @@ const Header: React.FC<HeaderProps> = ({ title, breadcrumbs = [] }) => {
                         </button>
                         <button className="p-2 text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-white transition-colors duration-200">
                             <img
-                                src="/svg/bell.svg"
+                                src={`${process.env.PUBLIC_URL}/svg/bell.svg`}
                                 alt="User Profile"
                                 className="w-6 h-6"
                                 style={{
@@ -108,7 +108,7 @@ const Header: React.FC<HeaderProps> = ({ title, breadcrumbs = [] }) => {
                     <div className="flex items-center space-x-3">
                         <div className="w-8 h-8 flex items-center justify-center">
                             <img
-                                src="/svg/extraFile.svg"
+                                src={`${process.env.PUBLIC_URL}/svg/extraFile.svg`}
                                 alt="User Profile"
                                 className="w-6 h-6"
                                 style={{
