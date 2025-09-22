@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/e-commerce-dashboard-with-comprehensive-theme-support-and-interactive-data-visualization/static/css/main.a7c978b3.css",
+    "main.js": "/e-commerce-dashboard-with-comprehensive-theme-support-and-interactive-data-visualization/static/js/main.9b2c1eb3.js",
+    "index.html": "/e-commerce-dashboard-with-comprehensive-theme-support-and-interactive-data-visualization/index.html",
+    "main.a7c978b3.css.map": "/e-commerce-dashboard-with-comprehensive-theme-support-and-interactive-data-visualization/static/css/main.a7c978b3.css.map",
+    "main.9b2c1eb3.js.map": "/e-commerce-dashboard-with-comprehensive-theme-support-and-interactive-data-visualization/static/js/main.9b2c1eb3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7c978b3.css",
+    "static/js/main.9b2c1eb3.js"
+  ]
+}
